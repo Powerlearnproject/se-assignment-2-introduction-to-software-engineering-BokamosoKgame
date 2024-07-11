@@ -1,0 +1,82 @@
+What is software engineering, and how does it differ from traditional programming?
+
+Software engineering is the scientific discipline that deals with the establishment, use and management of software. It involves the scientific, mathematical and empirical knowledge in the creation, installation, evaluation as well as the sustenance of the software application system. While on the other hand, the traditional programming is more or less confined to writing code to produce desired functionalities or to solve specific problem. Software engineering covers a wider area of activities than simple writing of the program and embraces such functions as project planning and control, requirements specification, designing and developing the products, verifying and validating the results, maintaining the programs, and assuring their quality and reliability throughout the application lifecycle.
+
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+Agile vs. Waterfall Models:
+
+Requirement Analysis: A procedure of identifying the stakeholders’ needs and expectations and documentation of these needs.
+Design: Implementation plan of the software architecture to indicate how the requirement is going to be met at the architectural and detailed design.
+Implementation (Coding): But now, after they read this book and done the exercises at the spur of the moment they have to sit down and write the code as per the design documentation.
+Testing: Assuring that the specific software which is being developed meets the intended purpose and does not have a bug in it.
+Deployment: The process of creating a software may be centred down into the following sub-processes:
+Maintenance: ited to assist and make upgrades to the product when and where required by correcting the flaws.
+Agile vs. Waterfall Models:
+Elaborate on one strength and one disadvantage of using Agile model and of Waterfall model for software development. Differences in what? And in which situation might one or the other be applied?
+
+Waterfall Model:
+
+Linear and sequential approach.
+In the migrant’s lifecycle, the various phases cannot be initiated until the previous phase is rung as a bell.
+The fear manifested in this case is the observed resistance to change and the predominant notion that changes cost a lot.
+This is suitable for application in a project that has containing known, stable specifications that would not change much.
+Agile Model:
+
+Iterative and incremental approach.
+As continue, it is relatively very flexible with much emphasize on teamwork as well as customer needs.
+Integration is followed by steady releases of such items.
+Used in conditions that suggest that requirements are to change in the future after the project implementation.
+What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+
+Requirements management is the activity of defining, documenting and maintaining these requirements for the software system being developed. It comprises identification of requirements by the stakeholders, specification, design and implementation, adjudication of requirements for correctness, and control of changes. It is essential for guaranteeing that the product developed by the end of the project complies with the users and stakeholders’ demands and expectations, so that project failure does not occur mainly due to wrong or unclear requirements.
+
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+
+Modularity in software design is a concept that relates to the process of decomposing a software system into smaller, more flexible, and less interdependent units. All these modules include a specific function that can communicate with other modules in the program in a natural way. Modularity enhances maintainability to the extent that it enables the regression testing of an individual module at a time without affecting or testing the module’s interaction with other modules. It increases adaptability due to the fact that new modules can be added to the system as it grows with minimal changes in the original modules.
+
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
+Unit Testing: When the entire system is not tested to check if it satisfies the requirements, but components or functions are checked to see if they meet the requirements.
+Integration Testing: Refers to the examination of interfaces and interfaces between compiled segments or appliances.
+System Testing: Examining the entire system in order to see if any of the requirements are not being met.
+Acceptance Testing: A cycle where the software is tested by the end-users or the consumers with an aim of confirming that the software fits their needs.
+In software development, tests are important to determine that the software is working correctly, and does not contain any faults. It assists in determining the challenges that may exist in the system and address them when they have not escalated and will therefore decrease the extent of expense and energy that will be required to correct the problems that have already occurred.
+
+What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+
+Version control systems, or VCS, deal with storing source code and its changes in time, with more than one coder that works on the same project. They monitor such changes and capture them as to allow to recover prior status, which is convenient in conflict solving and cooperation. Popular VCS examples:
+
+Git: Distributed VCS, that supports branching and merging is popular in open source and commercial projects.
+Subversion (SVN): Centralized VCS, has only one copy of version, used in many enterprises.
+Mercurial: Distributed VCS such as Git which is well-known for its operation’s simplicity, as well as speed.
+
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+
+A software project manager is a person responsible for managing of the beginning, middle and the end of software project. Key responsibilities include:
+
+Identifying activities of the project.
+Developing detailed and realistic project schedules, and project plans.
+Controlling resources and finances of the project.
+Coordinating the working project team and being in the middle of communication escalations.
+Managing the specific aspects related to the changes in the progress of the project.
+The threats are related to specific functionalities and include the following: the problems of scope control, the issues of team behavior, timing issues, trade-offs between quality and velocity, and changing requirements.
+
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+
+Software maintenance is often defined as the outstanding alteration of the software after delivery to clients with the purpose of solving certain flaws, increasing productivity or modifying the software to suit the currents environment. Types of maintenance activities:
+
+Corrective Maintenance: I can remember Gusuchu as it makes bug and error corrections.
+Adaptive Maintenance: The process of altering the parameter of software to operate in a new or a distinct environment.
+Perfective Maintenance: Developing, adding to, or refining something that has already been incorporated and/or is already in use.
+Preventive Maintenance: Things that the people can do in such a situation so that they can be in a position to develop similar issues.
+If maintenance is not done, then a software runs poorly or, in the worst case, is outdated and only has minimal value to the end consumer after a while.
+
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+Ethical issues in software engineering include:Some of the ethical issues that occur in software engineering are;
+
+Privacy and data protection: Protection of user’s private data and its legal, proper and appropriate use.
+Intellectual property: ! It is a good practice to acquire materials which are not restricted by laws and are coveed by the right copyright and licenses.
+Honesty and transparency: Informing the customers about the range of functions that the particular program can accomplish as well as the range of the same.
+Ethical principles that professional software engineer should uphold are as follows; Professional codes of ethic, Legal awareness, Truthfulness and relevancy with focus on the user most specifically user’s privacy.
+
+
